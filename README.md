@@ -1,15 +1,20 @@
 # Programmazione ad oggetti
-![alt text]([http://url/to/img.png](https://camo.githubusercontent.com/69ab3d5d4f1a013fb242d8ab82efc118146fcb72791937a0495f05c829d0f9b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465))
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 Esami risolti in preparazione della prova, basati sulla programmazione ad oggetti.
 
 
 
 # Sistemi IT e Cloud
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 File .word contenente molteplici esercizi e soluzioni di esami passati, basato su ambiente Fedora
 
 
 
 # Telematica
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 Piccolo progetto che consisteva in un client e server hostato nel mio computer personale, il cui poi era accessibile da reti esterne ecc.. previo una password.
