@@ -1,0 +1,4 @@
+1024 SHA256:oX+mg2oRTQUapE42ELsOm7JrUmJEqqY5lAEiS3au0qQ nt authority\system@abboh-PC (DSA)
+256 SHA256:4nmcW9HI3g3XiHqtSJ6STVE5cPYdbyBSoSBjhU6M85Q nt authority\system@abboh-PC (ECDSA)
+256 SHA256:+KZkBUY1VCXKXfPFpc8RBuDjkTxqIS1mEPIpW+2jdOM nt authority\system@abboh-PC (ED25519)
+3072 SHA256:7hYVnAG3oOKMCnFSkJN5F7O0EjFaaouf7krhJuTvPTw nt authority\system@abboh-PC (RSA)
